@@ -9,7 +9,9 @@ Projenin ilk kısmında herhangi bir resmin renklerini alıp RGB formatına dön
 ```
 playsound ile ses dönüştürüldü.
 
-### Müziğin Resme Dönüştürülmesi Çıktıları:
+### Müziğin Resme Dönüştürülmesi Çıktısı:
+
+![Çıktı Resmi](https://github.com/meryemshins/resim-muzik-donusturme/blob/main/resim.png)
 
 
 
